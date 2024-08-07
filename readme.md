@@ -1,3 +1,6 @@
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yanlz84/firefox-vnc)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/yanlz84/firefox-vnc/latest)
+
 # **因为115官方高端操作，停了linux的客户端，所以弄了个firefox用于远程下载**
 **运行镜像**
 ```markdown
